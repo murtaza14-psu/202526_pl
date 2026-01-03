@@ -37,7 +37,7 @@ This project uses the **Football-Data.org API**.
 
 1. Clone the repository:
  
-   git clone https://github.com/your-username/football-match-prediction.git
+   git clone https://github.com/murtaza14-psu/202526_pl.git
 
 ## 📈 Evaluation Metrics
 
